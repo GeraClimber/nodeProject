@@ -1,0 +1,15 @@
+{
+  "name": "ggblog",
+  "version": "1.0.0",
+  "description": "blog written on nodejs with express and mongodb",
+  "main": "ggblog.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gennady Glushenkov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.4",
+    "express-handlebars": "^3.0.0"
+  }
+}
